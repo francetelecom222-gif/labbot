@@ -27,10 +27,10 @@ from playwright.async_api import async_playwright, Page, BrowserContext
 # ╔══════════════════════════════════════════╗
 # ║              ⚙️ الإعدادات               ║
 # ╚══════════════════════════════════════════╝
-TELEGRAM_TOKEN  = "ضع_توكن_البوت_هنا"
-CHAT_ID         = "ضع_chat_id_هنا"
+TELEGRAM_TOKEN  = "8268456059:AAFTzDsOo0jvmuJFWYXE__riggQAJBRpaxc"
+CHAT_ID         = "7819789007"
 GOOGLE_EMAIL    = "francetelecom222@gmail.com"
-GOOGLE_PASSWORD = "ضع_كلمة_السر_هنا"
+GOOGLE_PASSWORD = "azart..12."
 LAB_URL         = "https://www.skills.google/focuses/19146?parent=catalog"
 SESSION_DIR     = Path("./session_data")
 SESSION_FILE    = SESSION_DIR / "google_session.json"
